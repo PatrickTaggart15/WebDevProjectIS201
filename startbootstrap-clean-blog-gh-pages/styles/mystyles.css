@@ -1,0 +1,45 @@
+.contactme{
+    color: navy
+}
+
+.contactemail{
+    font-size: 14px;
+    color: navy;
+}
+
+.background{
+    background-color:darkgray;
+    padding-top: 30px;
+}
+
+.header{
+    background-color: gray;
+}
+
+.image{
+    width: 560px;
+}
+
+.patricktaggartheader{
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    white-space: nowrap;
+    color: navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;
+    color: navy;
+}
+
+.basicbluetext{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: navy;
+}

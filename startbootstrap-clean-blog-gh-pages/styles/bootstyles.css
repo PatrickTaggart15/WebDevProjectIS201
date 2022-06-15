@@ -1,0 +1,50 @@
+.header{
+    background-color: navy;
+    border: 90vw;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.graph{
+    margin-top: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.aligncenter{
+    text-align: center;
+}
+
+.background{
+    background-color: gray;
+}
+
+.graphtext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: navy;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.footer{
+    height: 10%;
+    padding-top: 2%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: navy;
+    background-color: white;
+    border-radius: 5px;
+    border: 20px black;
+}
+
+.graphheader{
+    text-align: center;
+    color: navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
